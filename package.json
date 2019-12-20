@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/jquery": "2.0.47",
     "awesome-typescript-loader": "^3.5.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.2",
     "components-jqueryui": "github:components/jqueryui",
     "css-loader": "^0.28.10",
     "del": "^2.2.1",
