@@ -33,7 +33,7 @@
     "bootstrap": "^3.3.7",
     "components-jqueryui": "github:components/jqueryui",
     "css-loader": "^0.28.10",
-    "del": "^2.2.1",
+    "del": "^6.0.0",
     "dts-generator": "^2.1.0",
     "eslint": "^4.18.2",
     "eslint-config-standard": "^11.0.0",
